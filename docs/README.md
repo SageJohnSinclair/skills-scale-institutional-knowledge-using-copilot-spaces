@@ -45,4 +45,8 @@ We continuously evolve our processes based on team feedback and lessons learned.
 3. Reference relevant process documents
 4. Wait for review and discussion before implementation
 
-> **Principles:** Our processes are living documents. They should reflect reality, evolve with our learning, and serve all team members equally.
+**Principles:** Our processes are living documents. They should reflect reality, evolve with our learning, and serve all team members equally.
+
+---
+
+Last updated: 2026-04-21
