@@ -28,6 +28,7 @@ Navigate to any of our core process documents below:
 - **[Release and Deployment](octoacme-release-and-deployment.md)** — Standardize production rollouts with comprehensive checklists and rollback playbooks
 - **[Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Capture learnings and refine processes for future projects
 - **[Roles and Personas](octoacme-roles-and-personas.md)** — Understand key team roles and their responsibilities in project delivery
+- **[Delivery Accountability Checklist](octoacme-delivery-accountability-checklist.md)** — Apply a repeatable ownership model across planning, execution, and release
 
 ## Getting Started
 
@@ -49,4 +50,4 @@ We continuously evolve our processes based on team feedback and lessons learned.
 
 ---
 
-Last updated: 2026-04-21
+Last updated: 2026-05-07
