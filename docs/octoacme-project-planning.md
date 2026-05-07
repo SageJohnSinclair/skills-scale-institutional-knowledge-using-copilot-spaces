@@ -41,3 +41,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Accountability Integration
+- For multi-team efforts, complete the Delivery Accountability Checklist at planning kickoff.
+- Ensure each dependency has an explicit owner, due date, and escalation path.
+- Validate role coverage against the accountability matrix before sprint execution starts.
+
+Reference: [Delivery Accountability Checklist](octoacme-delivery-accountability-checklist.md)

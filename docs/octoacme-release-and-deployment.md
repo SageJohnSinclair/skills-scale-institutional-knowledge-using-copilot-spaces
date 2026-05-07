@@ -23,6 +23,14 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+## Accountability Before Go-live
+- QA Lead confirms all quality gates and unresolved risk exceptions.
+- Release Manager confirms cutover runbook, rollback owner, and communication plan.
+- Project Manager confirms milestone exit criteria and stakeholder sign-off state.
+- Product Manager confirms release scope and expected customer impact messaging.
+
+Reference: [Delivery Accountability Checklist](octoacme-delivery-accountability-checklist.md)
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call

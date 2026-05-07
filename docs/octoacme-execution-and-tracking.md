@@ -38,3 +38,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Accountability During Execution
+- Review dependency health weekly with accountable owners named in notes.
+- Track blocker age and escalation level in each delivery sync.
+- Require an owner and target date for every mitigation action.
+
+Reference: [Delivery Accountability Checklist](octoacme-delivery-accountability-checklist.md)
